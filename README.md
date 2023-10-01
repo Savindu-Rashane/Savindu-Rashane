@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhanuja Thishakya Samaranayake</h1>
-<h3 align="center">An ambitious undergraduate software engineer, NFT developer, and digital creator with a passion for building cutting-edge solutions, pushing boundaries, and crafting immersive digital experiences.</h3>
+<h1 align="center">Hi 👋, I’m Savindu Rashane</h1>
+<h3 align="center"> A Software Engineering Undergraduate at University Of Westminster .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-thisha&label=Profile%20views&color=0e75b6&style=flat" alt="sam-thisha" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sam_thisha" target="blank"><img src="https://img.shields.io/twitter/follow/sam_thisha?logo=twitter&style=for-the-badge" alt="sam_thisha" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://thisha.me](https://thisha.me)
+- 👨‍💻 All of my projects are available at [https://thisha.me](https://savindu.me)
 
 - 💬 Ask me about **NFT, Web Development**
 
